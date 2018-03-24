@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>Lynn's Blog</title>
+  </head>
+  <body>
+    <h1>Lynn Scofield</h1>
+    <h2>Django Workshop</h2>
+    <h3>March 24,2018</h3>
+    <br>
+    <p>Hi there!</p>
+    <p>It works!</p>
+    <br>
+    <ul><li>Introduction to Python</li><li>Django Tutorial</li></ul>
+    <br>
+    <a href="https://djangogirls.org">link</a>
+  </body>
+
+</html>
